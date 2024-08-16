@@ -1,8 +1,0 @@
-Problem Statement ID: 1396
-Problem Statement Title: Developing virtual reality based solutions.
-Description: Developing Virtual Reality based solutions in areas like 
-(1) Creating a virtual showcase/display centre of industrial products developing solutions for one type industry like garments, shoe industry etc.
-(2) VR solution for emergence rehearsals like fire, floods etc. Provide safety training using virtual reality.
-(3) Education tools for educating industries in utilisation of power by developing virtual reality, augmented reality based solutions.
-(4) Developing VR based solution for construction company to show the project plan, interior and exterior look.
-(5) Virtual Reality Solution for healthcare sector especially for training the new medical practitioner and para medical staff.
